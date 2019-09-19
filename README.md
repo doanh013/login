@@ -1,11 +1,13 @@
-# Project Android Shop Bán Giày
+# Project Android Login Form
 - Author : doanhnhq
 
-Mô tả :
+Describe :
 
-[+] Sử dụng sqlite
+[+] Desgin login form  
 
-[+] Chức năng thêm,xóa, sửa 1 sản phẩm
+[+] Function : sign up, sign in...
+
+[+] Desgin button
 
 
 
