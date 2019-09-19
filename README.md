@@ -1,5 +1,5 @@
 # Project Android Shop Bán Giày
-- Made by doanhnhq
+- Author : doanhnhq
 
 Mô tả :
 
@@ -7,6 +7,6 @@ Mô tả :
 
 [+] Chức năng thêm,xóa, sửa 1 sản phẩm
 
-[+]
+
 
 
